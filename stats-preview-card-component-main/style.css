@@ -36,17 +36,14 @@ body {
 
 .overlay-container {
   overflow: hidden;
-  width: 100%;
-  max-width: 500px;
 }
 
 .overlay {
   position: relative;
-  max-width: 100%;
 }
 
 .desktop-img {
-  max-width: 100%;
+  max-width: 500px;
   height: auto;
   display: block;
   object-fit: cover;
@@ -65,7 +62,7 @@ h1 {
 
 h2 {
   font-size: 27px;
-  margin-top: 50px;
+  margin-top: 80px;
   color: hsla(0, 0%, 100%);
 }
 
