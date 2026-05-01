@@ -36,6 +36,7 @@ body {
 
 .overlay-container {
   overflow: hidden;
+  max-width: fit-content;
 }
 
 .overlay {
