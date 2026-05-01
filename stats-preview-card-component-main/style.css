@@ -42,11 +42,10 @@ body {
 
 .overlay {
   position: relative;
-  width: 100%;
+  max-width: 100%;
 }
 
 .desktop-img {
-  width: 100%;
   max-width: 100%;
   height: auto;
   display: block;
